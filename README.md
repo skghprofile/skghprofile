@@ -4,6 +4,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Microsoft Azure SIEM Project 2024](https://github.com/skghprofile/Microsoft-Azure-SIEM-Project)</b>
+- [Wazuh Agent Vulnerability Patching](https://github.com/skghprofile/Wazuh-Agent-Vulnerability-Patching)</b>
 </br>
  
 <h2>📚 Education </h2>
