@@ -10,6 +10,12 @@
 
 <h3> 📄 Malware Analysis: </h3>
 
+- [AsyncRAT Malware Analysis](https://github.com/skghprofile/AsyncRAT-Malware-Analysis)
+
+<h3> 📄 Phishing Email Analysis: </h3>
+
+- [Coinbase Phishing Email Analysis](https://github.com/skghprofile/Coinbase-Phishing-Email-Analysis)
+
 </br>
  
 <h2>📚 Education </h2>
