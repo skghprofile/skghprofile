@@ -7,6 +7,7 @@
 - [Wazuh Agent Vulnerability Patching](https://github.com/skghprofile/Wazuh-Agent-Vulnerability-Patching)</b>
 - [Configuring App Locker On My Personal Windows 10 Device](https://github.com/skghprofile/Configuring-App-Locker)</b>
 - [Easy Hash Checking/Lookup With OpenHashTab](https://github.com/skghprofile/Easy-Hash-Checking-Lookup-With-OpenHashTab)</b>
+- [Windows Defender False Positive From Aurora Lite](https://github.com/skghprofile/Windows-Defender-False-Positive-From-Aurora-Lite)</b>
 
 <h3> 📄 Malware Analysis: </h3>
 
