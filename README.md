@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Microsoft Azure SIEM Project 2024](https://github.com/skghprofile/Microsoft-Azure-SIEM-Project)</b>
-- [Wazuh Agent Vulnerability Patching](https://github.com/skghprofile/Wazuh-Agent-Vulnerability-Patching)</b>
+- [Wazuh SIEM Projects](https://github.com/skghprofile/Wazuh-SIEM-Projects)</b>
 - [Configuring App Locker On My Personal Windows 10 Device](https://github.com/skghprofile/Configuring-App-Locker)</b>
 - [Easy Hash Checking/Lookup With OpenHashTab](https://github.com/skghprofile/Easy-Hash-Checking-Lookup-With-OpenHashTab)</b>
 - [Windows Defender False Positive From Aurora Lite](https://github.com/skghprofile/Windows-Defender-False-Positive-From-Aurora-Lite)</b>
